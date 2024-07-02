@@ -1,0 +1,26 @@
+div{
+    width: 50%;
+}
+p{
+    width: 50%;
+    text-align: center;
+    text-align-last: left;
+    text-decoration: underline pink dotted 5px ;
+    text-transform: capitalize;
+}
+#text{
+    width: 50%;
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: none;
+    text-indent: 30px;
+    letter-spacing: 5px;
+    line-height:20px;
+    word-spacing: 5px;
+    white-space: nowrap;
+    text-shadow: 2px 2px;
+}
+#p{
+    font-size: 50px;
+    text-shadow: 2px 2px 5px pink;
+}
